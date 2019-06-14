@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT logic_iin_4657.wsgi:application
